@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function About() {
   return (
-    <div className='max-w-6xl mx-auto p-5 space-y-4'>
+    <div className='max-w-6xl mx-auto p-3 space-y-4'>
         <h1 className='text-2xl font-medium text-amber-600'>About</h1>
         <p>
             Welcome to our Movie Database Website! We are a team of passionate movie enthusiasts who have come together to
@@ -15,7 +15,7 @@ export default function About() {
         </p> 
         <p>
             In addition to our extensive movie database, we also offer a platform for movie lovers to connect and share their thoughts
-            on the latest releases.
+            on the latest releases. 
         </p> 
     </div>
   )
